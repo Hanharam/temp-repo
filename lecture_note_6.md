@@ -59,5 +59,5 @@ Commit.
 
 ---
 
-#### git branch -m used_name new_name
+#### git branch -m used_name  new_name
 Change branch name.
